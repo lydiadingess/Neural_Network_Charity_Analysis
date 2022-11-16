@@ -23,6 +23,8 @@ This analysis will focus on creating a deep learning neural network model to pre
       In the optimized model, layer 1 started with 110 neurons with a relu activation. For layer 2, it dropped to 80 neurons and continued with the relu activation.
       From there, the sigmoid activation seemed to be the better fit for layers 3 (40 neurons) and layer 4 (20 neurons).
       
+      ![image](https://user-images.githubusercontent.com/107373721/202319814-ed8329da-b33c-4a74-9601-3d07aaa5093d.png)
+      
   2. Were you able to achieve the target model performance?
       The model was not able to reach the target 75%. 
       
